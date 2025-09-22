@@ -13,7 +13,8 @@ Convolutional Neural Network (CNN) architecture for feature extraction and class
 Trained on the FER-2013 or similar dataset.
 Real-time emotion recognition via webcam (optional).
 Simple and intuitive code structure using TensorFlow/Keras or PyTorch.A simple Emotion Recognition project using Python
+![My Image](face1.jpeg)
+![My Image](face2.jpeg)
+![My Image](face3.jpeg)
 
-![WhatsApp Image 2025-09-22 at 11.34.52]
-![![WhatsApp Image 2025-09-22 at 11 34 51 (1)]
 
